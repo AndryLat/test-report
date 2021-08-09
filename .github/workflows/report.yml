@@ -44,6 +44,9 @@ jobs:
           echo }
           } >> report.json
           
+      - name: LS
+        run: ls
+          
       - name: Download a Build Artifact
         uses: actions/download-artifact@v2.0.10
         with:
