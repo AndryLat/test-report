@@ -44,17 +44,6 @@ jobs:
           echo }
           } >> report.json
           
-      - name: LS
-        run: ls
-      - name: PWD
-        run: pwd
-          
-      - name: Download a Build Artifact
-        uses: actions/download-artifact@v2.0.10
-        with:
-          name: test
-          path: .\report.json
-          
       - name: Send request
         run: |
           curl \
