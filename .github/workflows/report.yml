@@ -33,7 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           {
-          echo { "name":"Some Report",
+          echo { 'name':'Some Report',
           echo "head_sha": "${{ github.sha }}",
           echo "conclusion":"success",
           echo "completed":"$(date --iso-8601=seconds)Z",
