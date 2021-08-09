@@ -44,6 +44,10 @@ jobs:
           echo }
           } >> report.json
           
+          
+      - name: show file
+        run: cat report.json
+          
       - name: Send request
         run: |
           curl \
