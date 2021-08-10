@@ -47,6 +47,9 @@ jobs:
           
       - name: show file
         run: cat report.json
+        
+      - name: test json
+        run: jq --version
           
       - name: Send request
         run: |
