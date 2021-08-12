@@ -1,1 +1,1 @@
-PDF name | Successful | Failed\nC S Additive 141931089066749424SDI_RAW_EUEN | 10 | 8\n\n##### Total results\nTotal | 10 | 8\nTotal percentage | 55 | 44\n
+PDF name | Successful | Failed\n ------------ | -------------\n C S Additive 141931089066749424SDI_RAW_EUEN | 10 | 8\n\n ##### Total results\n Total | 10 | 8\n Total percentage | 55 | 44\n
