@@ -5,6 +5,6 @@
     "title" : "Extraction statistics for OKR test case",
     "summary" : "PDF name | Successful | Failed\n ------------ | ------------ | ------------\n C S Additive 141931089066749424SDI_RAW_EUEN | 15 | 9\n \n ## Total results\n Name | Successful | Failed\n ------------ | ------------ | ------------\n Total | 15 | 9\n Total percentage | 62 | 37\n "
   },
-  "head_sha" : null,
+  "head_sha" : "77837fc073a9343d4242c4b43f01392c8c9d2940",
   "completed" : "2021-08-12T16:28Z"
 }
